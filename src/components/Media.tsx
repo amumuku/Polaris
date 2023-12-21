@@ -4,8 +4,8 @@ import Link from "next/link";
 export default function Media() {
   const mediaList = [
     {
-      title: "代码",
-      linkText: "Github",
+      title: "",
+      linkText: "",
       link: "",
     },
 
@@ -37,7 +37,7 @@ export default function Media() {
       </div>
 
       <div className=" text-center">
-        打赏地址☕️: 0xcb64546921145fe3fa1316d08e4af5b6b60d3945
+{/*         打赏地址☕️: 0x84E7d17e64696B5F675EDa4E353f71e510cEf1DB */}
       </div>
     </div>
   );
