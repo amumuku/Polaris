@@ -6,18 +6,9 @@ export default function Media() {
     {
       title: "代码",
       linkText: "Github",
-      link: "https://github.com/vectorisvector/inscription",
+      link: "",
     },
-    {
-      title: "开发者",
-      linkText: "@cybervector_",
-      link: "https://twitter.com/cybervector_",
-    },
-    {
-      title: "Alpha",
-      linkText: "@ChaunceyCrypto",
-      link: "https://twitter.com/ChaunceyCrypto",
-    },
+
   ];
 
   return (
